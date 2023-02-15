@@ -17,4 +17,4 @@ Dans Magic The Gathering, vous aurez la possibilité de jouer plusieurs types de
 >Les cartes peuvent être de plusieurs types à la fois et proposer de nombreux effets complémentaires. Vous pourrez en savoir plus sur notre article dédié qui présente dans le détail les différents types de cartes dans Magic.
 
 ---
-© Magic the Gathering | [Contact](contact.md)
+© Magic the Gathering | [Contact](mailto:reply@gmail.com)

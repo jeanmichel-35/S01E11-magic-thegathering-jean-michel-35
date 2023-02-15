@@ -15,4 +15,4 @@
 > Si vos decks peuvent être conçus autour d’une couleur pour marquer votre dévotion, ils peuvent aussi mélanger les styles pour favoriser les combinaisons. Les decks deux couleurs sont appelés des guildes. Il en existe 10 en tout. Si vous optez pour un deck trois couleurs, il s’agit alors d’un clan. Vous pouvez les retrouver sur notre présentation des guildes de Magic depuis cet article.
 
 ---
-© Magic the Gathering | [Contact](contact.md)
+© Magic the Gathering | [Contact](mailto:reply@gmail.com)

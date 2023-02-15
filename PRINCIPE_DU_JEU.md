@@ -17,4 +17,4 @@ Aujourd’hui Magic propose plus de 20 000 cartes différentes réparties dans p
 |A partir de 13 ans|Cartes|30 min|◻︎◻︎◻︎◼︎◼︎|
 
 ---
-© Magic the Gathering | [Contact](contact.md)
+© Magic the Gathering | [Contact](mailto:reply@gmail.com)
