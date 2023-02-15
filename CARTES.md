@@ -1,7 +1,7 @@
 ![presentation mtg](img/mtg_debut.jpg)
 # Magic, L'Assemblée
 
-[Accueil](README.md) | [Principe du jeu](PRINCIPE_DU_JEU.md) | [Les couleurs](COULEURS.md) | [Les différentes cartes](CARTES.md)
+[Accueil](README.md) | [Principe du jeu](PRINCIPE_DU_JEU.md) | [Les couleurs](COULEURS.md) | Les différentes cartes
 
 
 Dans Magic The Gathering, vous aurez la possibilité de jouer plusieurs types de cartes qui n’ont pas les mêmes capacités. La typologie de ses cartes est précisée sur chacune d’entre elles et vous permets de les identifier. Vous aurez ainsi sept formats de cartes différentes pour optimiser vos decks et vos combinaisons :

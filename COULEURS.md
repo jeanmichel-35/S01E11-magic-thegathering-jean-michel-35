@@ -1,7 +1,7 @@
 ![presentation mtg](img/mtg_debut.jpg)
 # Magic, L'Assemblée
 
-[Accueil](README.md) | [Principe du jeu](PRINCIPE_DU_JEU.md) | [Les couleurs](COULEURS.md) | [Les différentes cartes](CARTES.md)
+[Accueil](README.md) | [Principe du jeu](PRINCIPE_DU_JEU.md) | Les couleurs | [Les différentes cartes](CARTES.md)
 
 
 ![couleur mtg](img/mtg_couleurs.webp)
